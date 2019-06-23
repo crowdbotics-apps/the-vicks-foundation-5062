@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT the_vicks_foundation_5062.wsgi:application
